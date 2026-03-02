@@ -2,8 +2,6 @@
 ### 🧩 Domain: Insurance
 End-to-End Power BI Project | Sales Performance | Revenue Deep Dive and Segmentation
 
-**Live Dashboard:** [Click here]()
-
 ---
 ## 📌 Table of Contents
 - <a href="#overview">Project Overview</a>
@@ -51,6 +49,7 @@ Product category Analysis
 - Customer segmentation by age group
 - Product category performance analysis
 - Interactive slicers for date and age group filtering
+- [Retail Sales Performance Dashboard](Dashboard/Retail_Sales_Performance_Dashboard.png)
 
 ## 📈 Important dax-measures
 
