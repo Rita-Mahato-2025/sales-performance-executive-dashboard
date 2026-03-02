@@ -50,6 +50,7 @@ Product category Analysis
 - Product category performance analysis
 - Interactive slicers for date and age group filtering
 ![Retail Sales Performance Dashboard](Dashboard/Retail_Sales_Performance_Dashboard.png)
+![Revenue_Deep_Dive_Segmentation](Dashboard/Revenue_Deep_Dive_Segmentation.png)
 
 ## 📈 Important dax-measures
 
